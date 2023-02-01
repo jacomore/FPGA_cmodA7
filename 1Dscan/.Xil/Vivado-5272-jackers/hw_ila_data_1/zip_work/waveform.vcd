@@ -1,0 +1,49 @@
+$date
+        2023-Jan-28 15:10:03
+$end
+$version
+        Vivado v2022.2 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 1 " reset_IBUF $end
+$var reg 1 # o_enable $end
+$var reg 8 $ o_data [7:0] $end
+$var reg 1 , UART_TX $end
+$var reg 1 - _TRIGGER $end
+$var reg 1 . _WINDOW $end
+$var reg 1 / _GAP $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0"
+0#
+b100 $
+0,
+0-
+1.
+0/
+$end
+#58
+1,
+#166
+0,
+#255
+1#
+1-
+#494
+1,
+#512
+0#
+0,
+0.
+#767
+1#
+0-
+#910
+1,
+#1018
+0,
